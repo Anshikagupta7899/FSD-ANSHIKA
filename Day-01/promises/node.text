@@ -1,3 +1,4 @@
 node js is a runtime frame work
 if code is syncrous type then moved to call stack .
 if code is asyncrnouse type then  moved to webapi first then move to call stack only after the call stack code is excuted
+sync is blocking and async is non blocking 
